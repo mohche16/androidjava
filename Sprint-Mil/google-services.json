@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "56478985450",
+    "project_id": "sprint-46f55",
+    "storage_bucket": "sprint-46f55.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:56478985450:android:e4e679341415210d58fb93",
+        "android_client_info": {
+          "package_name": "com.example.sprint"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "56478985450-55g49ql859fn5o8i46714inv86vl4uq2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxtRu7Ynq95Onu8bWzC0cLmJSwKoOR6OA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "56478985450-55g49ql859fn5o8i46714inv86vl4uq2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
